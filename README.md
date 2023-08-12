@@ -15,19 +15,15 @@
 | Files| Description |
 | ------------- | ------------- |
 
-| **step1.ipynb** | This file contains the ipynb code of the Web scrapping part. |
+| **Python Codes** | This file contains the ipynb code of the Web scrapping part and data cleaning parts. |
 
-| **step2,3,4 Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
+| **Data files** | This file contains the Excel worksheets and dashboard of the insights. |
 
-| **step5.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
+| **data cleaning using Excel** | These files contain the excel files using data cleaning . |
 
-| **step6.xlsx** | These files contain the final data drawn out after the data cleaning. |
+| **SQL queries**  | This file provides SQL queries of the aggregation of the data   |
 
-| **step7.sql**  | This file provides SQL queries of the aggregation of the data   |
-
-| **step8.sql**  | This file provides the powerpoint presentation and visualisation   |
-
-| **step9.pptx**  | This file  contains all the major insights and conclusions.  |
+| **Power Bi dashboard **  | This file provides the powerpoint presentation and visualisation   |
 
 
 
