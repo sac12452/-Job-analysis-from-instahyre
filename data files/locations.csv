@@ -1,0 +1,67 @@
+details_id,location,num_of_jobs
+D01,Bangalore,12
+D01,Hyderabad,3
+D01,"Work From Home",2
+D01,Gurgaon,1
+D01,Coimbatore,1
+D09,Bangalore,2
+D09,Noida,2
+D09,Delhi,1
+D09,Chennai,1
+D09,"Work From Home",1
+H06,"Work From Home",2
+H06,Hyderabad,1
+H06,Mumbai,1
+H06,Bangalore,1
+I02,Bangalore,18
+I02,"Work From Home",10
+I02,Hyderabad,3
+I02,Mumbai,3
+I02,Delhi,1
+I02,Mangalore,1
+I02,Gurgaon,1
+I02,Kolkata,1
+I02,Noida,1
+M05,"Work From Home",7
+M05,Bangalore,6
+M05,Delhi,3
+M05,Mumbai,1
+M05,Surat,1
+O07,Bangalore,7
+O07,Mumbai,2
+O07,Gurgaon,2
+O07,"Work From Home",2
+O07,Delhi,1
+S03,Bangalore,82
+S03,"Work From Home",28
+S03,Hyderabad,12
+S03,Gurgaon,11
+S03,Chennai,9
+S03,Noida,7
+S03,Mumbai,4
+S03,Pune,3
+S03,Ahmedabad,3
+S03,Coimbatore,2
+S03,Delhi,2
+S03,Kolkata,1
+S03,Panaji,1
+S03,Jaipur,1
+S04,Bangalore,13
+S04,Mumbai,11
+S04,"Work From Home",6
+S04,Gurgaon,5
+S04,Hyderabad,4
+S04,Noida,3
+S04,Delhi,2
+S04,Chennai,1
+S04,Belgaum,1
+S04,Kochi,1
+S04,Pune,1
+S04,Kolkata,1
+S04,Coimbatore,1
+S04,Indore,1
+T08,Bangalore,19
+T08,Gurgaon,4
+T08,Chennai,3
+T08,Mumbai,3
+T08,Hyderabad,2
