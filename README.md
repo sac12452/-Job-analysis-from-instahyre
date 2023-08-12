@@ -105,7 +105,9 @@
 
    2. Cleaned the extracting data through SQL and made different tables accordingly.
 
-   3. Presented the tables through MS Excel 
+   3. Presented the tables through MS Excel
+
+   4. We encountering difficulties while creating a Power BI dashboard with slicers and filters
 
 
    
