@@ -97,7 +97,17 @@
    
    7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
    <br>
+
    
+   # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+
+   1. Extraction of data through web Scraping
+
+   2. Cleaned the extracting data through SQL and made different tables accordingly.
+
+   3. Presented the tables through MS Excel 
+
+
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
    
