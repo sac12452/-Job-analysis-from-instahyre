@@ -109,6 +109,25 @@
 
    4. We encountering difficulties while creating a Power BI dashboard with slicers and filters
 
+<br>
+
+ # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
+
+    1. Corporations or companies established more than 10 years ago are hiring more aggressively than       startups
+ 
+    2. Python and SQL still remain the most in-demand skills for Data Science and Analysis, followed by Machine Learning. Gone are those days when just having good knowledge of Excel was enough to aspire for the said field.
+
+    3. Also, Python and Java are topping the list of most in-demand skills by recruiters in India
+
+    
+    4. Employees working with Startups have better overall experience than those working in Corporations
+    
+    5. We can see that some of the well-known companies, such as Delta, Uber, PhonePe, Jungless Games, Mahindra Insurance, etc, belonging to different company-size categories, are topping the list of overall ratings by their employees
+
+    6. Bangalore is the topping the list, having the most number of job opportunities i.e. alomost 50%.
+
+    7. Software Engineering is the highest recruiting industry, almost across all locations. Also, about 50% work from home job offers are given by the Software Engineering industry itself.
+
 
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
